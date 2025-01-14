@@ -1,0 +1,120 @@
+doi,API,cof1,ratio_mole,liquid,liq_amount_mL,mixing_apparatus ,mixing_frequency_Hz,mixing_temp_C,mixing_time_min,drying_time_hour,drying_temp_C
+10.1016/j.ejps.2015.05.017,Caffeine ,citric acid ,4:1 ,water,0.3,"planetary mill (Pulverisette 7; Fritsch GmbH, Idar-Oberstein, Germany) ",39.23,20.00,39.225352112676056,32.22222222222222,20.0
+10.1016/j.ejps.2015.05.017,Caffeine ,citric acid ,3:1 ,water,0.3,"planetary mill (Pulverisette 7; Fritsch GmbH, Idar-Oberstein, Germany) ",39.23,20.00,39.225352112676056,32.22222222222222,20.0
+10.1016/j.ejps.2015.05.017,Caffeine ,citric acid ,2:1 ,water,0.3,"planetary mill (Pulverisette 7; Fritsch GmbH, Idar-Oberstein, Germany) ",39.23,20.00,39.225352112676056,32.22222222222222,20.0
+10.1016/j.ejps.2015.05.017,Caffeine ,citric acid ,1:1 ,water,0.3,"planetary mill (Pulverisette 7; Fritsch GmbH, Idar-Oberstein, Germany) ",39.23,20.00,39.225352112676056,32.22222222222222,20.0
+10.1016/j.ejps.2015.05.017,Caffeine ,citric acid ,1:2 ,water,0.3,"planetary mill (Pulverisette 7; Fritsch GmbH, Idar-Oberstein, Germany) ",39.23,20.00,39.225352112676056,32.22222222222222,20.0
+10.1016/j.ejps.2015.05.017,Caffeine ,citric acid ,1:3,water,0.3,"planetary mill (Pulverisette 7; Fritsch GmbH, Idar-Oberstein, Germany) ",39.23,20.00,39.225352112676056,32.22222222222222,20.0
+10.1016/j.ejps.2015.05.017,Caffeine ,citric acid ,1:4 ,water,0.3,"planetary mill (Pulverisette 7; Fritsch GmbH, Idar-Oberstein, Germany) ",39.23,20.00,39.225352112676056,32.22222222222222,20.0
+10.1021/acs.cgd.5b00279,Theophylline,4-aminosalicylic acid,1:1,acetone,0.1,Retsch mill 200,39.23,20.00,30.0,32.22222222222222,20.0
+10.1021/acs.cgd.5b00279,theophylline,4-aminobenzoic acid,2:1 ,acetone,0.1,Retsch mill 200,39.23,20.00,30.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151 ,Zaltoprofen ,alicylic acid,1:1 ,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151 ,Zaltoprofen ,nicotinamide,1:1 ,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,glutaric acid,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,malonic acid,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,benzoic acid,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,tartaric acid,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,oxalic acid,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,citric acid,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,urea,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen , succinic acid,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,saccharine sodium,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Pluronic 68 AR,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Magnesium stearate,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,crotonic acid,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,P-hydroxy benzoic acid ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Caffeine ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,"3,5 dihydroxy benzoic acid ",1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Piperazine citrate ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Cinnamic acid ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Adipic acid ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Hydroquinone ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Isonicotinic acid ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Acetamide ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Maleic acid ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Ascorbic acid ,1:1,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151 ,Zaltoprofen ,alicylic acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151 ,Zaltoprofen ,nicotinamide,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,glutaric acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,malonic acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,benzoic acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,tartaric acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,oxalic acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,citric acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,urea,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen , succinic acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,saccharine sodium,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Pluronic 68 AR,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Magnesium stearate,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,crotonic acid,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,P-hydroxy benzoic acid ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Caffeine ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,"3,5 dihydroxy benzoic acid ",1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Piperazine citrate ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Cinnamic acid ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Adipic acid ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Hydroquinone ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Isonicotinic acid ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Acetamide ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Maleic acid ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+10.5530/ijper.53.4s.151,Zaltoprofen ,Ascorbic acid ,1:2,Methanol ,0.1,mortar and pestle,1.0,20.00,45.0,32.22222222222222,20.0
+https://doi.org/10.1007/s10973-015-5058-2,Piroxicam ,saccharin,1:1,Chloroform,0.1,"oscillatory ball mill (Mixer Mill MM301, Retsch GmbH & Co., Germany)",20.0,30.00,39.225352112676056,24.0,30.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,"1,4-Dioxane ",0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,2-Butanone,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Acetophenone,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Chloroform,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Cyclohexane,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Dichloromethane,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Diethyl ether,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Ethanol,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Ethyl acetate,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Ethylene glycol,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Methanol,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,n-Heptane,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,n-Hexane,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,n-Pentane,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Nitromethane,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Tetrahydrofuran,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Acetone,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Acetonitrile,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI: 10.1039/c4ce00472h ,caffeine ,Anthranilic acid ,1:1,Dimethylformamide,0.25,mortar and pestle,30.0,20.00,25.0,32.22222222222222,20.0
+DOI:https://doi.org/10.11113/jt.v81.12639,quercetin,succinic acid,1:1,methanol ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.molstruc.2024.140387,Voriconazole,"2,4-dihydroxybenzoic acid ",1:1,ethyl acetate,1.0,mortar and pestle,1.0,20.00,39.225352112676056,240.0,20.0
+http://dx.doi.org/10.1016/j.tca.2013.10.029,Metaxalone,oxalic acid,2:1 ,ethyl alcohol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,25.0
+http://dx.doi.org/10.1016/j.tca.2013.10.029,Metaxalone,malonic acid,2:1 ,ethyl alcohol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,25.0
+http://dx.doi.org/10.1016/j.tca.2013.10.029,Metaxalone,succinic acid,2:1,ethyl alcohol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,25.0
+http://dx.doi.org/10.1016/j.tca.2013.10.029,Metaxalone,fumaric acid,2:1,ethyl alcohol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,25.0
+http://dx.doi.org/10.1016/j.tca.2013.10.029,Metaxalone,maleic acid,2:1,ethyl alcohol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,25.0
+http://dx.doi.org/10.1016/j.tca.2013.10.029,Metaxalone,glutaric acid,2:1,ethyl alcohol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,25.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:1,acetonitrile ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:1,dioxane ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:1,ethanol ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:1,methanol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:1,nitromethane,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:1,tetrahydrofuran ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:2,acetonitrile ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:2,dioxane ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:2,ethanol ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:2,methanol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:2,nitromethane,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+DOI: 10.1039/d3mr00022b,Trans-aconitic acid ,nicotinamide ,1:2,tetrahydrofuran ,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.molstruc.2023.135806, cyanuric acid,5-aminoisophthalic acid,1:1,acetonitrile,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+http://dx.doi.org/10.1016/j.jpba.2017.01.025,Praziquantel,citric acid,1:1,ethanol,0.15,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+http://dx.doi.org/10.1016/j.jpba.2017.01.025,Praziquantel,malic acid,1:1,ethanol,0.15,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+http://dx.doi.org/10.1016/j.jpba.2017.01.025,Praziquantel,salicylic acid,1:1,ethanol,0.15,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+http://dx.doi.org/10.1016/j.jpba.2017.01.025,Praziquantel,tartaric acid,1:1,ethanol,0.15,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.ijpharm.2023.122983,Remdesivir,salicylic acid,1:1,ethanol,0.2,mortar and pestle,1.0,20.00,39.225352112676056,0.5,80.0
+https://doi.org/10.1016/j.ijpharm.2023.122983,Remdesivir,salicylic acid,1:1,acetone,0.2,mortar and pestle,1.0,20.00,39.225352112676056,0.5,80.0
+https://doi.org/10.1016/j.ijpharm.2023.122983,Remdesivir,salicylic acid,1:1,acetonitrile,0.2,mortar and pestle,1.0,20.00,39.225352112676056,0.5,80.0
+https://doi.org/10.1016/j.ijpharm.2023.122983,Remdesivir,salicylic acid,1:1,chloroform,0.2,mortar and pestle,1.0,20.00,39.225352112676056,0.5,80.0
+https://doi.org/10.1016/j.jddst.2022.103228,quercetin,theophylline,1:1,methanol,0.3,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+ https://doi.org/10.1002/asia.201300859,andrographolide,salicylic acid,1:1,water,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.molstruc.2024.140988,Daidzein,"4,4′-Vinylenedipyridine",1:1,anhydrous ethanol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.molstruc.2024.140988,Daidzein,"4,4′-Ethylenedipyridine",1:1,anhydrous ethanol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.jconrel.2024.09.005,dicamba,phenazine,2:1, ethanol,0.2,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.matpr.2019.03.069,betulin,Adipic acid,1:1,dioxan,1.0,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.matpr.2019.03.069,betulin,succinic acid,1:1,dioxan,1.0,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.matpr.2019.03.069,betulin,suberic acid,1:1,dioxan,1.0,mortar and pestle,1.0,20.00,39.225352112676056,32.22222222222222,20.0
+https://doi.org/10.1016/j.ijpharm.2022.122283, hydrochlorothiazide,nicotinamide,1:1, ethanol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,8.0,40.0
+https://doi.org/10.1016/j.ijpharm.2022.122283, hydrochlorothiazide,succinimide,1:1, ethanol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,8.0,40.0
+https://doi.org/10.1016/j.ijpharm.2022.122283, hydrochlorothiazide,nicotinic acid,1:1, ethanol,0.1,mortar and pestle,1.0,20.00,39.225352112676056,8.0,40.0
