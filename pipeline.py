@@ -34,14 +34,12 @@ def load_data_to_db(lag_data_new_path, db_path):
     Загружаем данные из new_data.csv в SQLite базу данных.
     """
     print("Загрузка обработанных данных в базу данных...")
-    # Читаем обработанные данные
+
     df = pd.read_csv(lag_data_new_path)
 
-    # Подключаемся к базе данных
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
-    # Создаем таблицу (если еще не создана)
     table_name = "processed_data"
     df.to_sql(table_name, conn, if_exists="replace", index=False)
 
@@ -55,18 +53,14 @@ def main():
     """
     print("Запуск пайплайна...")
 
-    # 1. Проверяем наличие исходных данных
     if not os.path.exists(DATA_FILE):
         raise FileNotFoundError(f"Исходный файл данных {DATA_FILE} не найден.")
 
-    # 2. Запуск обработки данных в Jupyter Notebook
     run_notebook(NOTEBOOK_FILE)
 
-    # 3. Проверяем, что обработанный файл создан
     if not os.path.exists(NEW_DATA_FILE):
         raise FileNotFoundError(f"Обработанный файл {NEW_DATA_FILE} не создан.")
 
-    # 4. Загружаем обработанные данные в базу
     load_data_to_db(NEW_DATA_FILE, DB_FILE)
 
     print("Пайплайн выполнен успешно.")
